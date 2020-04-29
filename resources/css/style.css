@@ -91,6 +91,7 @@ li {
 }
 
 .location img {
+  width: 100%;
 
 }
 
@@ -105,4 +106,8 @@ footer .container {
   justify-content: space-between;
   padding: 5em 0;
   color: white;
+}
+
+@media only screen and (min-width: 960px){
+  
 }
